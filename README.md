@@ -2,7 +2,7 @@
 
 ## My own customised Booking Experience
 
-<img src="https://github.com/lucchettan/barberApp/blob/master/MockupBarber.png" width="120" height="250" hspace="50"/>
+<img src="https://github.com/lucchettan/barberApp/blob/master/MockupBarber.png" width="300" height="300"/>
 ---
 
 During this pandemic and the lockdown I have practiced everything I have learned during the Apple Developper Academy by going from an idea to a real product.
