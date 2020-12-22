@@ -15,8 +15,8 @@ The App is working thanks to a FireBase database handling the login and the book
 
 
 ## That will redirect you:
-   ## - either you are business owner, and you will be directed to your bookings. 
-   ## - or you are a customer and you can sign/log in to acces your booking or the available ones.
+   ### - either you are business owner, and you will be directed to your bookings. 
+   ### - or you are a customer and you can sign/log in to acces your booking or the available ones.
    <img src="https://github.com/lucchettan/barberApp/blob/master/seeSpots.png" width="120" height="250" hspace="50"/> <img src="https://github.com/lucchettan/barberApp/blob/master/bookingsView.png" width="120" height="250" hspace="50"/>
 
 ##  To select a booking you have to confirm your date
@@ -28,12 +28,12 @@ The App is working thanks to a FireBase database handling the login and the book
 
 Working with dates is definitly a real progress that I have made thanks to this development! I also had to figure out an algorithm that allow me to display a spot only if there is still a seat available depending on the seats available in the owner settings which he can access and change at any time. 
 
-I am already proud of the progress I did working on it and the notification that are also working triggered when a booking is created/cancelled and also the owner's feature to call a customer.
+### I am already proud of the progress I did working on it and the notification that are also working triggered when a booking is created/cancelled and also the owner's feature to call a customer.
 
 
 
-Those modales have been built thanks to the designer @MengTo and it's designcode.io inpiration
+### Those modales have been built thanks to the designer @MengTo and it's designcode.io inpiration
 
-You can leave me comments on the design, the ux or even my code at @lucchettan on twitter!
+### You can leave me comments on the design, the ux or even my code at @lucchettan on twitter!
 
 ## To use the app, download the project and run a - pod install in the folder.
